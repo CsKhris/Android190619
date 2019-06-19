@@ -91,8 +91,8 @@ public class MainActivity extends AppCompatActivity {
                             @Override
                             public void onClick(DialogInterface dialogInterface, int i) {
                                 String hobby = "";
+                                int idx=0;
                                 for(boolean b : bSelect){
-                                    int idx=0;
                                     if(b) {
                                         hobby = hobby + hobbies[idx];
                                         bSelect[idx] = false;
