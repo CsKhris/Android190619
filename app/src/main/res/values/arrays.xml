@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="itc">
+        <item>Apple</item>
+        <item>Google</item>
+        <item>Microsoft</item>
+        <item>AMD</item>
+        <item>Intel</item>
+        <item>Samsung</item>
+        <item>LG</item>
+    </string-array>
+</resources>
