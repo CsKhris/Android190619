@@ -92,6 +92,7 @@ public class MainActivity extends AppCompatActivity {
                             public void onClick(DialogInterface dialogInterface, int i) {
                                 String hobby = "";
                                 int idx=0;
+
                                 for(boolean b : bSelect){
                                     if(b) {
                                         hobby = hobby + hobbies[idx];
